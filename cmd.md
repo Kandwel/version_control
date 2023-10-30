@@ -53,3 +53,9 @@ git commit -m "Комментарий к коммиту"
 git log
 ```
 
+Перемещение по коммитам
+```sh
+git checkout <numder commit>
+```
+
+ 
