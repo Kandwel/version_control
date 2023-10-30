@@ -58,6 +58,12 @@ git log
 git checkout <numder commit>
 ```
 
+Все коммиты с скоращёнными номерами
+```sh
+git log --oneline
+```
+
+
  # Язык MarkDown
 
  *Я пишу тут курсивом*
