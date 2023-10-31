@@ -89,3 +89,5 @@ git log --oneline
 >>>>>>> conflict_branch
 
  ## Что-то ещё
+
+  ![Мем про программистов](meme.jpg)
